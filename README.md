@@ -1,7 +1,7 @@
 ![logo](https://github.com/tiwaripoorva/tiwaripoorva/blob/main/Fullstack%20Developer.png)
 <h1 align="center">Hi 👋, I'm Poorva Tiwari</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://tse4.mm.bing.net/th?id=OIP.VON9gHTrzeHZbHfXsqfzEAHaEq&pid=Api&P=0&h=180">
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/selfportrait.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tiwaripoorva&label=Profile%20views&color=0e75b6&style=flat" alt="tiwaripoorva" /> </p>
 
 - 🌱 I’m currently learning **Reactjs**
